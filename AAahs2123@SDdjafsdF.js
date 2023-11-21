@@ -5,7 +5,7 @@
 var objPeople = [
 	{ // Object @ 0 index
 		username: "User",
-		password: "UserPassword2"
+		password: "haslouser"
 	}
 ]
 
